@@ -1,0 +1,1 @@
+"Actúa como un diseñador web experto. Tengo un archivo HTML con mis proyectos (Juego de Limones y Juego Cazando). Necesito que generes el código CSS moderno y elegante, con un diseño formal y colores atractivos."
